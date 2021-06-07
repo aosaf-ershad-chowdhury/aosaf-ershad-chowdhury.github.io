@@ -4,5 +4,5 @@ This repository will function to run my portfolio website which can be found at 
 
 HTML, CSS and JavaScript were used to make the site. I also used Bootstrap5 for ease in making this site. A custom css file can be found in the css folder and all the images used (under fair copyright use) can be found in the images folder.
 
-***Please note that this branch contains the optimized HTML and CSS code that was produced after minifying the original codes***
+***Please note that this branch contains the optimized HTML and CSS code that was produced after minifying the original codes. You can find the original non-optimized code in the other branch***
 
