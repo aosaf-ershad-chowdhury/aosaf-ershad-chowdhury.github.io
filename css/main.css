@@ -172,7 +172,7 @@ nav{
 .award-card .card-body{
     margin-left: 12%;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 5%!important;
 }
 
 .award-card p, .award-card li{
@@ -245,7 +245,7 @@ nav{
     .award-card .card-body{
         padding-left: auto;
         margin: auto;
-        padding-bottom: 5%;
+        padding-bottom: 8%!important;
     }
 
     .card-img-top{
