@@ -251,6 +251,10 @@ nav{
     .card-img-top{
         height: 70vh!important;
     }
+    
+    #section-right-last{
+        margin-bottom: 10%!important;
+    }
 
 }
 
